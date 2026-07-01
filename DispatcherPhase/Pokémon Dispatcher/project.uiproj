@@ -1,0 +1,6 @@
+{
+  "Name": "Pokémon Dispatcher",
+  "ProjectType": "Process",
+  "Description": "Reads Excel file, pushes Pokémon to Orchestrator queue as Transaction Items",
+  "MainFile": "Main.xaml"
+}

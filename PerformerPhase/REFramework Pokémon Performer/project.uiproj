@@ -1,0 +1,6 @@
+{
+  "Name": "REFramework Pokémon Performer",
+  "ProjectType": "Process",
+  "Description": "Robotic Enterprise Framework for PDF Pokémon file generator. Pulls transactions from Orchestrator Queue",
+  "MainFile": "Main.xaml"
+}
